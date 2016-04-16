@@ -1,0 +1,9 @@
+CodeIgniter 2.2.6
+
+bootstrap 3.3.6
+
+jquery 1.12.0
+
+font awesome 4.5.0
+
+jQuery File Upload Plugin 5.42.3

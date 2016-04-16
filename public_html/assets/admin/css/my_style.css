@@ -1,0 +1,16 @@
+.login-bg{
+	background:url('../images/avatar_all.png') !important;
+}
+#content-id{
+	width: 100%;
+	display:table;
+}
+#top-holder .modal{
+	background: rgba(0,0,0,0.4)
+}
+#top-holder .alert{
+	position: fixed;
+    top: 10%;
+    left: 40%;
+    display: block;
+}
